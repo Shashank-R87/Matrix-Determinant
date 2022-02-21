@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="359.856" height="84.4" viewBox="0 0 359.856 84.4">
+  <g id="matrix-multiply-c" transform="translate(252.641 -2491.5)">
+    <path id="Path_12" data-name="Path 12" d="M-242.4,2505.6c-2.6-.3-5.7-.2-8.1-.3,2.8-2,.3,6.9,1.1,8.9-.6,12.9-.5,27.9-.4,39.8,1.3-.3,5,0,7.2-.1,1.5,1.5.2,3.6-2,2.8-3.1,0-8.7.9-7.9-4.1,0-16.4.2-32.8.7-49.1,2.6-2,6.7-.4,9.8-.6l-.3,2.7Z" fill="#0169c9" stroke="#636466" stroke-linejoin="round" stroke-width="0.13"/>
+    <path id="Path_13" data-name="Path 13" d="M-150.4,2505.4c2.6-.3,5.7-.1,8.1-.2-2.7-2-.4,6.9-1.3,8.9.3,12.9-.1,27.9-.4,39.8-1.3-.4-5,0-7.2-.3-1.6,1.5-.3,3.6,1.9,2.8,3.1,0,8.7,1.1,8-3.9.4-16.4.4-32.8.3-49.1-2.5-2.1-6.7-.5-9.8-.8l.3,2.7Z" fill="#0169c9" stroke="#636466" stroke-linejoin="round" stroke-width="0.13"/>
+    <text id="_4" data-name="4" transform="translate(-236.5 2550.1)" fill="#fd3301" font-size="20" font-family="Arial-Black, Arial" font-weight="800"><tspan x="0" y="0">4</tspan></text>
+    <text id="_1" data-name="1" transform="translate(-236.9 2522.7)" fill="#fd3301" font-size="20" font-family="Arial-Black, Arial" font-weight="800"><tspan x="0" y="0">1</tspan></text>
+    <text id="_2" data-name="2" transform="translate(-204.9 2522.7)" fill="#fd3301" font-size="20" font-family="Arial-Black, Arial" font-weight="800"><tspan x="0" y="0">2</tspan></text>
+    <text id="_6" data-name="6" transform="translate(-172 2550.1)" fill="#fd3301" font-size="20" font-family="Arial-Black, Arial" font-weight="800"><tspan x="0" y="0">6</tspan></text>
+    <text id="_3" data-name="3" transform="translate(-174.1 2522.7)" fill="#fd3301" font-size="20" font-family="Arial-Black, Arial" font-weight="800"><tspan x="0" y="0">3</tspan></text>
+    <text id="_5" data-name="5" transform="translate(-205.2 2550.1)" fill="#fd3301" font-size="20" font-family="Arial-Black, Arial" font-weight="800"><tspan x="0" y="0">5</tspan></text>
+    <text id="_8" data-name="8" transform="translate(-58.9 2513.5)" fill="#fd3301" font-size="20" font-family="Arial-Black, Arial" font-weight="800"><tspan x="0" y="0">8</tspan></text>
+    <text id="_7" data-name="7" transform="translate(-90.5 2513.5)" fill="#fd3301" font-size="20" font-family="Arial-Black, Arial" font-weight="800"><tspan x="0" y="0">7</tspan></text>
+    <text id="_9" data-name="9" transform="translate(-90.2 2541.4)" fill="#fd3301" font-size="20" font-family="Arial-Black, Arial" font-weight="800"><tspan x="0" y="0">9</tspan></text>
+    <text id="_12" data-name="12" transform="translate(-65.5 2569.9)" fill="#fd3301" font-size="20" font-family="Arial-Black, Arial" font-weight="800"><tspan x="0" y="0">12</tspan></text>
+    <text id="_11" data-name="11" transform="translate(-96 2569.9)" fill="#fd3301" font-size="20" font-family="Arial-Black, Arial" font-weight="800"><tspan x="0" y="0">11</tspan></text>
+    <text id="_10" data-name="10" transform="translate(-65.9 2541.4)" fill="#fd3301" font-size="20" font-family="Arial-Black, Arial" font-weight="800"><tspan x="0" y="0">10</tspan></text>
+    <path id="Path_14" data-name="Path 14" d="M-97,2492.7c-2.9.7-8-2-8.9,1.8,1,20.1-1.1,40.2-.2,60.4.5,6.5-.9,13.7.8,19.9,2.8,1,5.9.5,8.9.7,1.7-4.2-4-1.6-6.4-2.5-2.1-.8.2,1.6-.5-.5-.6-21.8-.4-43.6.4-65.4,0-3.8-.2-9.7-.5-12.6-2,.8,3.2.4,4.2.6,2.2.1,2.6.5,2.2-2.3Z" fill="#0169c9" stroke="#636466" stroke-linejoin="round" stroke-width="0.13"/>
+    <path id="Path_15" data-name="Path 15" d="M-42,2492.7c2.9.7,8-2,8.8,1.9-1.2,20.1.7,40.2-.4,60.4-.5,6.5.8,13.7-1,19.9-2.8,1-5.9.5-8.9.7-1.7-4.2,4.1-1.6,6.4-2.5,2.1-.7-.2,1.6.5-.5.8-21.8.8-43.6.3-65.4,0-3.8.3-9.7.6-12.6,2,.8-3.2.3-4.2.6-2.2,0-2.6.4-2.2-2.4Z" fill="#0169c9" stroke="#636466" stroke-linejoin="round" stroke-width="0.13"/>
+    <text id="x" transform="translate(-130.7 2537.3)" fill="#0197fd" font-size="24.7" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">x</tspan></text>
+    <text id="_" data-name="=" transform="translate(-20.2 2544.4)" fill="#0197fd" font-size="32.1" font-family="ArialMT, Arial"><tspan x="0" y="0">=</tspan></text>
+    <path id="Path_16" data-name="Path 16" d="M23,2505.6c-2.6-.3-5.7-.2-8.1-.3,2.8-2,.3,6.9,1.1,8.9-.6,12.9-.5,27.9-.4,39.8,1.3-.3,5,0,7.2-.1,1.5,1.5.2,3.6-2,2.8-3.1,0-8.7.9-7.9-4.1,0-16.4.2-32.8.7-49.1,2.6-2,6.7-.4,9.8-.6l-.3,2.7Z" fill="#0169c9" stroke="#636466" stroke-linejoin="round" stroke-width="0.13"/>
+    <path id="Path_17" data-name="Path 17" d="M97.7,2506.4c2.6-.3,5.7-.1,8.1-.2-2.7-2-.4,6.9-1.3,8.9.3,12.9-.1,27.9-.4,39.8-1.3-.4-5,0-7.2-.3-1.6,1.5-.3,3.6,1.9,2.8,3.1,0,8.7,1.1,8-3.9.4-16.4.4-32.8.3-49.1-2.5-2.1-6.7-.5-9.8-.8l.3,2.7Z" fill="#0169c9" stroke="#636466" stroke-linejoin="round" stroke-width="0.13"/>
+    <text id="_58" data-name="58" transform="translate(28.5 2522.7)" fill="#fd3301" font-size="20" font-family="Arial-Black, Arial" font-weight="800"><tspan x="0" y="0">58</tspan></text>
+    <text id="_64" data-name="64" transform="translate(67.7 2522.7)" fill="#fd3301" font-size="20" font-family="Arial-Black, Arial" font-weight="800"><tspan x="0" y="0">64</tspan></text>
+    <g id="Group_2" data-name="Group 2" transform="translate(-17.038 1542.374)">
+      <text id="_39" data-name="39" transform="translate(48.383 1008.641)" fill="#fd3301" font-size="20" font-family="Arial-Black, Arial" font-weight="800"><tspan x="0" y="0">39</tspan></text>
+      <text id="_1-2" data-name="1" transform="translate(38.98 1008.641)" fill="#fd3301" font-size="20" font-family="Arial-Black, Arial" font-weight="800"><tspan x="0" y="0">1</tspan></text>
+    </g>
+    <g id="Group_3" data-name="Group 3" transform="translate(-61.829 1583.81)">
+      <text id="_54" data-name="54" transform="translate(135.7 966.922)" fill="#fd3301" font-size="20" font-family="Arial-Black, Arial" font-weight="800"><tspan x="0" y="0">54</tspan></text>
+      <text id="_1-3" data-name="1" transform="translate(126.206 966.922)" fill="#fd3301" font-size="20" font-family="Arial-Black, Arial" font-weight="800"><tspan x="0" y="0">1</tspan></text>
+    </g>
+  </g>
+</svg>

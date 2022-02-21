@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="skew.css">
+</head>
+<body>
+    <div class="sidebar">
+        <button id="home" class="home">Home</button>
+        <button id="add" class="add">Add</button>
+        <button id="sub" class="sub">Subtract</button>
+        <button id="smul" class="smul">Scalar Multiply</button>
+        <button id="mmul" class="mmul">Matrix Multiply</button>
+        <button id="tr" class="transpose">Transpose</button>
+        <button id="skew" class="skew">Skew & Symm</button>
+        <button id="inv" class="inverse">Inverse</button>
+        <button id="det" class="det">Determinant</button>
+    </div>
+
+
+
+    <p class="content1">
+      In a Symmetric matrix matching entries either side of the main diagonal are equal.<br>
+      It must be square, and is equal to its own transpose.<br>
+      A = AT
+    </p>
+
+    <img src="../../res/matrix-symmetric.svg" class="src1">
+
+    <p class="content2">
+      A square matrix is said to be a skew-symmetric matrix if AT = -A.<br>
+      All the diagonal elements of a skew symmetric matrix are zero.
+    </p>
+
+    <img src="../../res/matrix-skew-symmetric.svg" class="src2">
+
+</body>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+<script src="skew.js"></script>
+</html>

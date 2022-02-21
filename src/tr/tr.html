@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="tr.css">
+</head>
+<body>
+    <div class="sidebar">
+        <button id="home" class="home">Home</button>
+        <button id="add" class="add">Add</button>
+        <button id="sub" class="sub">Subtract</button>
+        <button id="smul" class="smul">Scalar Multiply</button>
+        <button id="mmul" class="mmul">Matrix Multiply</button>
+        <button id="tr" class="transpose">Transpose</button>
+        <button id="skew" class="skew">Skew & Symm</button>
+        <button id="inv" class="inverse">Inverse</button>
+        <button id="det" class="det">Determinant</button>
+    </div>
+    <div class="txt" id="txt">3x3</div>
+
+    <svg class="line" xmlns="http://www.w3.org/2000/svg" width="43.5" height="2" viewBox="0 0 43.5 2">
+        <line id="Line_1" data-name="Line 1" x2="41.5" transform="translate(1 1)" fill="none" stroke="#d9d9d9" stroke-linecap="round" stroke-width="2"/>
+    </svg>    
+
+    <svg class="table1_l" id="Component_1_1" data-name="Component 1 – 1" xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+        <line id="Line_2" data-name="Line 2" y2="199" transform="translate(66.5 0.5)" fill="none" stroke="#f2f2f2" stroke-width="2"/>
+        <line id="Line_3" data-name="Line 3" y2="199" transform="translate(132.5 0.5)" fill="none" stroke="#f2f2f2" stroke-width="2"/>
+        <line id="Line_4" data-name="Line 4" x2="199" transform="translate(0.5 66.5)" fill="none" stroke="#f2f2f2" stroke-width="2"/>
+        <line id="Line_5" data-name="Line 5" x2="199" transform="translate(0.5 132.5)" fill="none" stroke="#f2f2f2" stroke-width="2"/>
+        <g id="Rectangle_4" data-name="Rectangle 4" fill="none" stroke="#d9d9d9" stroke-width="3">
+          <rect width="200" height="200" rx="10" stroke="none"/>
+          <rect x="1.5" y="1.5" width="197" height="197" rx="8.5" fill="none"/>
+        </g>
+    </svg>
+
+    <svg class="table3_l" id="Component_1_1" data-name="Component 1 – 1" xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+        <line id="Line_2" data-name="Line 2" y2="199" transform="translate(66.5 0.5)" fill="none" stroke="#f2f2f2" stroke-width="2"/>
+        <line id="Line_3" data-name="Line 3" y2="199" transform="translate(132.5 0.5)" fill="none" stroke="#f2f2f2" stroke-width="2"/>
+        <line id="Line_4" data-name="Line 4" x2="199" transform="translate(0.5 66.5)" fill="none" stroke="#f2f2f2" stroke-width="2"/>
+        <line id="Line_5" data-name="Line 5" x2="199" transform="translate(0.5 132.5)" fill="none" stroke="#f2f2f2" stroke-width="2"/>
+        <g id="Rectangle_4" data-name="Rectangle 4" fill="none" stroke="#d9d9d9" stroke-width="3">
+          <rect width="200" height="200" rx="10" stroke="none"/>
+          <rect x="1.5" y="1.5" width="197" height="197" rx="8.5" fill="none"/>
+        </g>
+    </svg>
+      
+    <table class="table1">
+      <tr>
+        <td>
+          <input id="t10" type="text" value="0">
+        </td>
+        <td>
+          <input id="t11" type="text" value="0">
+        </td>
+        <td>
+          <input id="t12" type="text" value="0">
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <input id="t13" type="text" value="0">
+        </td>
+        <td>
+          <input id="t14" type="text" value="0">
+        </td>
+        <td>
+          <input id="t15" type="text" value="0">
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <input id="t16" type="text" value="0">
+        </td>
+        <td>
+          <input id="t17" type="text" value="0">
+        </td>
+        <td>
+          <input id="t18" type="text" value="0">
+        </td>
+      </tr>
+    </table>
+
+    <p class="t">T</p>
+
+    <img id="op" class="op" src="../../res/arrow_right_alt_black_24dp.svg">
+
+    <svg class="table2" id="Component_1_1" data-name="Component 1 – 1" xmlns="http://www.w3.org/2000/svg" width="184" height="53" viewBox="0 0 184 53">
+      <g id="Rectangle_5" data-name="Rectangle 5" fill="none" stroke="#d9d9d9" stroke-width="3">
+        <rect width="184" height="53" rx="10" stroke="none"/>
+        <rect x="1.5" y="1.5" width="181" height="50" rx="8.5" fill="none"/>
+      </g>
+      <text id="Transpose" transform="translate(40 33)" fill="#b6b6b6" font-size="20" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Transpose</tspan></text>
+    </svg>
+    
+
+    <img src="../../res/equal-mathematical-sign-svgrepo-com.svg" id="equal" class="equal">
+
+    <table class="table3">
+      <tr>
+        <td id="t30"></td>
+        <td id="t31"></td>
+        <td id="t32"></td>
+      </tr>
+      <tr>
+        <td id="t33"></td>
+        <td id="t34"></td>
+        <td id="t35"></td>
+      </tr>
+      <tr>
+        <td id="t36"></td>
+        <td id="t37"></td>
+        <td id="t38"></td>
+      </tr>
+    </table>
+
+    <div class="calculate" id="calc">Calculate</div>
+
+    <p class="content">
+      To "transpose" a matrix, swap the rows and columns.
+      We put a "T" in the top right-hand corner to mean transpose:
+    </p>
+
+    <img src="../../res/matrix-transpose.gif" class="src1">
+
+    <p class="claimer">*Currently supports 3x3</p>
+
+</body>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+<script src="tr.js"></script>
+</html>

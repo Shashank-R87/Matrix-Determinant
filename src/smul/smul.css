@@ -1,0 +1,218 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+body{
+    font-family: "Poppins";
+}
+
+.sidebar{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 200px;
+    height: 600px;
+    background-color: #1D1D1D;
+    border-radius: 10px 20px 20px 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+}
+
+button{
+    outline: none;
+    border: 2px solid transparent;
+    background-color: transparent;
+    font-family: "Poppins";
+    font-size: 16px;
+    color: #fff;
+    border-radius: 5px;
+    width: 150px;
+    height: 30px;
+    cursor: pointer;
+}
+
+button:hover{
+    border: 2px solid #BBCDFF;
+}
+
+button:focus{
+    color: #383838;
+}
+
+.txt{
+    position: absolute;
+    font-family: "Poppins";
+    font-size: 16px;
+    color: #505050;
+    padding: 2px 7px 2px 7px;
+    background-color: #DAFEC8;
+    border-radius: 10px;
+    top: 40px;
+    left: 243px;
+    user-select: none;
+}
+
+.line{
+    position: absolute;
+    top: 74.5px;
+    left: 243px;
+}
+
+.table1_l{
+    position: absolute;
+    top: 105px;
+    left: 243px;
+}
+
+.table1{
+    position: absolute;
+    top: 172px;
+    left: 243px;
+    width: 66px;
+    height: 66px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+table, td{
+    width: 66.5px;
+    border-collapse: collapse;
+}
+
+.table2_l{
+    position: absolute;
+    top: 105px;
+    left: 363px;
+}
+
+.table2{
+    position: absolute;
+    top: 105px;
+    left: 363px;
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.op{
+    position: absolute;
+    top: 196px;
+    left: 326px;
+}
+
+.table3_l{
+    position: absolute;
+    top: 105px;
+    left: 613px;
+}
+
+.table3{
+    position: absolute;
+    top: 105px;
+    left: 613px;
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.equal{
+    position: absolute;
+    top: 203px;
+    left: 579px;
+}
+
+input[type="text"]{
+    border: none;
+    outline: none;
+    font-size: 16px;
+    width: 55px;
+    height: 55px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+input[type="text"]{
+    border: none;
+    outline: none;
+    font-size: 16px;
+    width: 55px;
+    height: 55px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.calculate{
+    position: absolute;
+    top: 319px;
+    left: 623px;
+    padding: 2px 52px 2px 52px;
+    background-color: #1F1F1F;
+    font-size: 16px;
+    border-radius: 5px;
+    transition: ease-in-out 0.2s;
+    user-select: none;
+    color: white;
+    cursor: pointer;
+}
+
+.calculate:hover{
+    transform: scale(103%);
+}
+
+.calculate:active{
+    transform: scale(98%);
+}
+
+p{
+    position: absolute;
+    top: 358px;
+    left: 244px;
+    padding-right: 100px;
+    color: #797979;
+}
+
+.src1{
+    position: absolute;
+    top: 431px;
+    left: 244px;
+}
+
+.heading{
+    position: absolute;
+    top: 150px;
+    line-height: 50px;
+    left: 380px;
+    font-size: 48px;
+    font-weight: 800;
+}
+
+.table1_ll{
+    position: absolute;
+    top: 172px;
+    left: 243px;
+}
+
+.claimer{
+    position: absolute;
+    top: 550px;
+    left: 800px;
+    font-size: 12px;
+    color: #797979;
+    padding-right: 0px;
+}
+
+.head1{
+    position: absolute;
+    top: 290px;
+    left: 380px;
+}
+
+.done{
+    position: absolute;
+    top: 560px;
+    left: 380px;
+    font-size: 12px;
+}
